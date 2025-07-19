@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Agentic AI • LangChain • RAG Systems • NLP • Transformers</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Engineer+@+Syniti+(Capgemini);LangChain+%7C+LangGraph+%7C+FAISS+%7C+Gemini;AI+Automations+%7C+LLM+Workflows+%7C+NLP;Helping+Enterprise+Data+Flow+Smarter+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=550&lines=%20%20Engineer+@+Syniti+(Capgemini);%20%20LangChain+%7C+LangGraph+%7C+FAISS+%7C+Gemini;%20%20AI+Automations+%7C+LLM+Workflows+%7C+NLP;%20%20Helping+Enterprise+Data+Flow+Smarter+with+AI" alt="Typing SVG" />
 </p>
 
 ---
