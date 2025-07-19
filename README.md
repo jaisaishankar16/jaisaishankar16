@@ -23,7 +23,7 @@
 |--------|-------------|-------|
 | 📝 [AI Blog Writer Agent](https://github.com/jaisaishankar16/AI-Blog-writer-agent-with-CrewAI) | Auto-generates long-form blogs from prompts using agents | CrewAI, OpenAI, LangChain |
 | 🔍 [RAG-Based Search Engine](https://github.com/jaisaishankar16/Search-Engine-with-Tools-and-Groq-AI) | Context-aware search system with Groq + LangChain Tools | LangChain, Groq, FAISS, Python |
-| 🧾 [Natural Language → SQL Generator](https://github.com/jaisaishankar16/Natural-Language-to-SQL-Generator-using-Gemini-LLM) | Converts natural language into live SQL queries | Gemini, Llama2, LangChain, Streamlit |
+| 🧾 [Natural Language → SQL Generator](https://github.com/jaisaishankar16/Natural-Language-to-SQL-Generator-using-Gemini-Pro) | Converts natural language into live SQL queries | Gemini, Llama2, LangChain, Streamlit |
 | 🧹 [Semantic Deduplication Engine](https://github.com/jaisaishankar16/Semantic-Deduplication-for-Large-tables) | Clusters duplicate records using SentenceTransformers + FAISS | Python, FAISS, Pandas, PyODBC |
 
 > 🔗 *More projects being added weekly — stay tuned!*
